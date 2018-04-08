@@ -1,0 +1,21 @@
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\bin\Debug\oyun2.exe.config
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.csprojResolveAssemblyReference.cache
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.Form1.resources
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.Properties.Resources.resources
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.csproj.GenerateResource.Cache
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\bin\Debug\oyun2.exe
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\bin\Debug\oyun2.pdb
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.exe
+c:\users\çağdaş halil\documents\visual studio 2015\Projects\oyun2\oyun2\obj\Debug\oyun2.pdb
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\bin\Debug\oyun2.exe.config
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.exe
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.pdb
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\bin\Debug\oyun2.exe
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\bin\Debug\oyun2.pdb
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.Form1.resources
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.Properties.Resources.resources
+C:\Users\çağdaş halil\Desktop\oyun2\oyun2\obj\Debug\oyun2.csproj.GenerateResource.Cache
+C:\Users\çağdaş halil\Desktop\oyun\oyun2\bin\Debug\oyun2.exe.config
+C:\Users\çağdaş halil\Desktop\oyun\oyun2\obj\Debug\oyun2.exe
+C:\Users\çağdaş halil\Desktop\oyun\oyun2\obj\Debug\oyun2.pdb
